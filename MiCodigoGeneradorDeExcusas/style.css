@@ -1,0 +1,7 @@
+#excuse {
+  font-weight: bold;
+  font-size: 30px;
+  color: darkgreen;
+  display: flex;
+  justify-content: center;
+}
